@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica;
+    max-width: 50em;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+header {
+    background-color: #ffafcc;
+    padding: 2em;
+    color: white;
+}
+
+ol {
+    padding: 2em;
+    border: 1px solid #cdb4db;
+    border-radius: 1em;
+    background-color: #bde0fe;
+    color: #555;
+}
+
+h3 {
+    margin: 1em 0;
+}
+
+img {
+    margin: 1em auto;
+    display: block;
+    border-radius: 1em;
+}
